@@ -9,7 +9,6 @@
 #include <iostream>
 using namespace std;
 
-bool canJump(int A[],bool jumpFlag[],int curPos,int endPos);
 
 bool canJump(int A[], int n) {
     
